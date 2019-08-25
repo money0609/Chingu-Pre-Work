@@ -735,7 +735,7 @@ button.navbar-toggle:hover {
   header,
   section#services-area,
   section#contact-area {
-    background-attachment: scroll;
+    /* background-attachment: scroll; */
   }
 }
 
